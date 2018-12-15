@@ -1,0 +1,6 @@
+echo "# MyPorfolio">> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+자식 원격 생성 원점 https://github.com/ygk7718/MyPorfolio.git
+ git push -u origin master
